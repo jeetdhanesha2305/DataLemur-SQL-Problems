@@ -4,6 +4,8 @@
 | Problem Name                     | Problem Url                                                    | Difficulty |
 | ---------------------------------- | ---------------------------------------------------------------- | ------------ |
 |                                  |                                                                |            |
+| User's Third Transaction         | https://datalemur.com/questions/sql-third-transaction          | MEDIUM     |
+|                                  |                                                                |            |
 | Compressed Mode                  | https://datalemur.com/questions/alibaba-compressed-mode        | MEDIUM     |
 | Card Launch Success              | https://datalemur.com/questions/card-launch-success            | MEDIUM     |
 | International Call Percentage    | https://datalemur.com/questions/international-call-percentage  | MEDIUM     |
