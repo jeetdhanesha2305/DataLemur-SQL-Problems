@@ -8,3 +8,4 @@
 | Card Launch Success              | https://datalemur.com/questions/card-launch-success            | MEDIUM     |
 | International Call Percentage    | https://datalemur.com/questions/international-call-percentage  | MEDIUM     |
 | Patient Support Analysis (Part2) | https://datalemur.com/questions/uncategorized-calls-percentage | MEDIUM     |
+| Active User Retention            | https://datalemur.com/questions/user-retention                 | HARD       |
